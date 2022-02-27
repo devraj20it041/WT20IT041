@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: #08e9b8;
+    font-family: sans-serif;
+  
+  
+  }
+  
+  .heading{
+    background-color: #96f38d;
+    color: #b510fc;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  
+  }
+  
+  .details{
+    background-color: #66a3ad;
+    line-height: 2;
+  
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+  
+  }
+  
